@@ -29,9 +29,9 @@ If you use our implementation in your academic work, please cite the correspondi
 		author = {Chen, Xieyuanli and Cui, Jiafeng and Liu, Yufei and Zhang, Xianjing and Sun, Jiadai and Ai, Rui and Gu, Weihao and Xu, Jintao and Lu, Huimin},
 		title = {Joint Scene Flow Estimation and Moving Object Segmentation on Rotational LiDAR Data},
 		booktitle = tits,
-		year = 2024,
-    volume={25},
-    number={11},
-    pages={17733-17743},
+		year = {2024},
+	        volume={25},
+	        number={11},
+	        pages={17733-17743},
 	}
 
