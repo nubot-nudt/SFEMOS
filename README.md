@@ -25,7 +25,7 @@ python utils/generate_gts.py --root_dir $ROOT_DIR$ --save_dir $SAVE_DIR$
 ## Publication
 If you use our implementation in your academic work, please cite the corresponding [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10623536):
 
-	@article{chen2021icra,
+	@article{chen2024tits,
 		author = {Chen, Xieyuanli and Cui, Jiafeng and Liu, Yufei and Zhang, Xianjing and Sun, Jiadai and Ai, Rui and Gu, Weihao and Xu, Jintao and Lu, Huimin},
 		title = {Joint Scene Flow Estimation and Moving Object Segmentation on Rotational LiDAR Data},
 		booktitle = tits,
